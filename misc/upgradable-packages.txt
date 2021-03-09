@@ -1,0 +1,8 @@
+org-ref: 7dbe3ace9b → 93f17b8a2c
+  93f17b8 Fix for issue #866 - use org-ref-open-pdf-function instead of a hard-coded function
+org-appear: 845be82b7a → a7d509c5a7
+  a7d509c add Emacs version dependency; minor fixes
+mixed-pitch: d5f64b967d → d5f64b967d
+  
+emacs-everywhere: 01e031e664 → 99997af933
+  99997af Run melpazoid on the local repo on CI
